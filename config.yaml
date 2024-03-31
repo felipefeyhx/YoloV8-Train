@@ -1,0 +1,6 @@
+path: C:/Users/U170021/OneDrive - GRUPO EQUATORIAL ENERGIA/Projetos/Treinamento_Modelo_QAS/data
+train: images/train
+val: images/train
+
+names:
+  0: rooftop
